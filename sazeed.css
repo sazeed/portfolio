@@ -1,0 +1,131 @@
+<!--#abou{
+	color: White;
+	background-color: Gray;
+	font-size: 28px;
+	text-align: center;
+	font-style: bold;
+	top:20;
+}-->
+.logo{
+	font-size:30px;
+	color: White;
+	text-decoration: none;
+	color: White;
+	text-align: left;
+}
+.nav1{
+	color: White;
+	text-decoration: none;
+}
+.nav-bar{
+	font-style: bold;
+	text-align: Right;
+}
+.nav{
+	color: White;
+	text-align: right;
+	text-decoration: none;
+}
+.nav:hover{
+	background-color: White;
+	color: Black;
+}
+.active{
+	background-color: red;
+	color: WHITE;
+}
+.ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+	background-color: grey;
+	position:fixed;
+	top:0;
+	width:100%;
+}
+.li{
+	display: inline-block;
+	overflow: auto;
+	color: White;
+	font-size:18px
+}
+#skills{
+	display: inline-block;
+	overflow: auto;
+	color: White;
+	font-size:18px
+}
+#skills{
+	border-style: double;
+	border-color: PeachPuff;
+}
+.body{
+	background-image: url('MainBackground.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+*{
+	margin: 1px 0 1px 0;
+	margin-color: Black;
+	margin-style: dashed;
+}
+h1{
+	font-family: Georgia;
+	color:Brown;
+	font-size:26px;
+	Background: none;
+}
+.fam-details{
+	border-style: double;
+	border-color: PeachPuff;
+}
+#desc{
+	color: GhostWhite;
+}
+
+p1{
+	font-family: "Times New Roman";
+	color: GhostWhite;
+	font-size: 20px;
+}
+fam{
+	color: GhostWhite;
+	font-size: 20px;
+}
+.footer{
+	background-image: url('Footer_Background.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: White;
+	font-size:28px;
+	padding: 0.5em;
+}
+.fb{
+	font-style:Bold;
+	color: Bisque;
+}
+.insta{
+	font-style:Bold;
+	color: AquaMarine;
+}
+.gmail{
+	font-style:Bold;
+	color: GhostWhite;
+}
+#name{
+	text-align: center;
+	color: Crimson;
+	font-size: 34px
+}
+
+#mob{
+	text-align: left;
+	font-size: 16px;
+}
+
+#info{
+	text-align: right;
+	font-size: 16px;
+}
